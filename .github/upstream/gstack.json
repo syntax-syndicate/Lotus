@@ -1,9 +1,9 @@
 {
   "repo": "garrytan/gstack",
   "branch": "main",
-  "version": "1.1.1.0",
-  "commit": "e3c961d00f24334066b4caeb57634c012a346c00",
-  "commit_date": "2026-04-18T15:58:59Z",
-  "commit_subject": "fix(ship): detect + repair VERSION/package.json drift in Step 12 (v1.1.1.0) (#1063)",
-  "tracked_at_utc": "2026-04-19T00:00:00Z"
+  "version": "1.25.0.0",
+  "commit": "6e1625c0d735f97346ecc3a111d84f8527e04416",
+  "commit_date": "2026-05-01T15:45:36Z",
+  "commit_subject": "v1.25.0.0 fix: AskUserQuestion resolves to host MCP variant when native is disallowed (#1287)",
+  "tracked_at_utc": "2026-05-01T19:38:17Z"
 }
